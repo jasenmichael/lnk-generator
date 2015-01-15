@@ -6,7 +6,7 @@ lnk-generator.exe
 this is a windows program written in Auto Hot Key - autohotkey.com
 this program needs all 6 paremeters
 
-
+\n
 USAGE:
 lnk-generator.exe ["1"] ["2"] ["3"] ["4"] ["5"] [6]
 1: full path to th launching .exe
