@@ -2,7 +2,7 @@
 
 batch create windows shorcuts, great tool for emulator front-ends that have problems runnig directly.
 
-author: dreadycarpenter - Jasen Michael
+author: jasenmichael
 
 lnk-generator.exe
 
