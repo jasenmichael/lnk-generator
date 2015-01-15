@@ -1,7 +1,6 @@
 # lnk-generator
 batch create windows shorcuts, great tool for emulator front-ends that have problems runnig directly.
 
-
 author: dreadycarpenter - Jasen Michael
 lnk-generator.exe
 this is a windows program written in Auto Hot Key - autohotkey.com
