@@ -8,7 +8,7 @@ lnk-generator.exe
 
 this is a windows program written in Auto Hot Key - autohotkey.com
 
-this program needs all 6 paremeters
+this program needs all 6 parameters
 
 USAGE:
 
