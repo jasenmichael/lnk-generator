@@ -2,7 +2,7 @@
 
 # Batch Windows Shorcut Creator
 
-[![Download lnk-generator](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/lnk-generator/files/latest/download)
+[![Download lnk-generator](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/lnk-generator/files/lnk-generator.exe/download)
 
 batch create windows shorcuts, good for emulator front-ends that have problems running directly.
 
