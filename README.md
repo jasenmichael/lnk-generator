@@ -4,7 +4,7 @@
 
 [![Download lnk-generator](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/lnk-generator/files/latest/download)
 
-batch create windows shorcuts, great tool for emulator front-ends that have problems running directly.
+batch create windows shorcuts, good for emulator front-ends that have problems running directly.
 
 author: jasenmichael
 
